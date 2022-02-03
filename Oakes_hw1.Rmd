@@ -87,4 +87,4 @@ sd(penguin.df$flipper_length_mm, na.rm = TRUE)
 * The number of rows is `r nrow(penguin.df)`
 * The number of columns is `r ncol(penguin.df)`
 * The mean penguin bill length is `r mean(penguin.df$bill_length_mm, na.rm = TRUE)`
-
+* The mean penguin flipper length is `r mean(penguin.df$flipper_length_mm, na.rm = TRUE)`
